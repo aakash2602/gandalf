@@ -35,6 +35,6 @@ class example(object):
 t = time.time()
 example()
 
-## testing webhook
+## testing github webhook
 
 print('\nPython Elapsed %.02f' % (time.time() - t))
